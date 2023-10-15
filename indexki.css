@@ -1,0 +1,80 @@
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    margin-left: 0px;
+    padding-left: 0PX;
+}
+#h2{
+padding-top: 40px;
+    font-size: 71px;
+   font-weight: 800; 
+   text-align:center;
+   font-family: 'Gochi Hand', cursive;
+   
+  
+
+
+}
+#h2:hover{
+    
+
+transition: 0.15s;
+text-shadow: 30px;
+color:brown;
+}
+.h3{ justify-content: center;
+    font-family: 'Martian Mono', monospace;
+    text-align:center;
+    font-weight: 800; 
+}
+.h3:hover{
+    font-size:20px ;
+    transition: 0.45s;
+}
+.start{
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 50px;
+    margin-left: 170px;
+    height: 60px;
+    width: 100px;
+    background-color: red;
+    color: bisque;
+    border-radius: 18px;
+    border-color: red;
+    cursor: pointer;
+
+}
+.start:hover{
+    background-color: bisque;
+    color: red;
+    transition: 0.35s;
+    border-radius: 0;
+    border-color: bisque;
+
+
+
+}
+
+
+
+#one{
+    padding: 0px;
+    height: 400px;
+    width: 450px;
+    margin:auto;
+   margin-top: 150px;
+   border-radius:20px ;
+   background-image: url(Mobile-Brain-Games-That-Will-Sharpen-Your-Mind-new.jpg);
+    z-index: 1;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+body{
+     background-image: url(NEW.jpg)
+}
